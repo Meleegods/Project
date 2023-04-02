@@ -140,7 +140,7 @@ body {
 }
 
 .social-icon {
-    background: url("images/social-icons.png") no-repeat;
+    background: url("social-icons.png") no-repeat;
     width: 165px;
     height: 165px;
     display: inline-block;
